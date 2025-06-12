@@ -1,4 +1,4 @@
-# mb-azure
+# mb-aks-infra-python-app
 
 This provisions a simple, modular Azure environment using Terraform. It includes:
 
